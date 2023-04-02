@@ -1,2 +1,2 @@
 # Data-Science-Projects
-This repo contains data as well as projects I will be doing.
+This repo will contain data as well as projects I intend to do in 2023.
