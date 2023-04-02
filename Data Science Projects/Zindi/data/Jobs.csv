@@ -1,0 +1,35 @@
+Remote,Experience,Industry,Employment Type,Company Size,Data Science Functions,job_ID
+,02-May,"{Government,Health,""Financial Services""}",fulltime,50-200,"{""Data modelling"",""Business/Data Analysis""}",ID_VJ43
+,,,,,,ID_ZNZV
+TRUE,>5,,fulltime,>200,"{""Data engineering"",""Data modelling""}",ID_PZHM
+,>5,{Media},fulltime,01-Oct,"{""Data engineering""}",ID_1PBU
+,01-Feb,{Media},fulltime,01-Oct,"{""Data engineering"",""Data modelling"",""ML Application Deployment"",""Business/Data Analysis""}",ID_ZTPN
+,01-Feb,,fulltime,50-200,"{""Data modelling"",""Business/Data Analysis"",""Data engineering"",""ML Application Deployment""}",ID_P0AF
+,02-May,{Insurance},fulltime,50-200,"{""Data engineering"",""Data modelling"",""Business/Data Analysis""}",ID_7YKR
+,>5,,fulltime,,,ID_147X
+,<1,{Location},internship,01-Oct,"{""Data engineering""}",ID_5ONI
+,>5,{Health},fulltime,>200,"{""Data engineering"",""Data modelling"",""ML Application Deployment"",""AI infrastructure""}",ID_SOPZ
+TRUE,01-Feb,{Security},internship,01-Oct,,ID_PFPU
+TRUE,01-Feb,"{""Financial Services""}",internship,>200,"{""Data engineering"",""ML Application Deployment"",""Business/Data Analysis""}",ID_GYGN
+,,,,,,ID_ZJIX
+,02-May,{Research},,Oct-50,"{""Data engineering"",""Data modelling"",""ML Application Deployment"",""AI infrastructure""}",ID_QZLH
+,>5,{Research},fulltime,50-200,"{""Data engineering"",""ML Application Deployment"",""Data modelling""}",ID_128W
+FALSE,<1,"{Government,Health,""Financial Services""}",fulltime,50-200,"{""Business/Data Analysis"",""Data modelling""}",ID_4V5P
+TRUE,02-May,{Zindi},fulltime,Oct-50,"{""Data modelling"",""AI infrastructure"",""ML Application Deployment""}",ID_ZU35
+,02-May,"{Manufacturing,Sales}",fulltime,>200,"{""Data engineering"",""AI infrastructure"",""Business/Data Analysis""}",ID_93OJ
+,02-May,"{""Financial Services"",Banking}",fulltime,50-200,"{""Data engineering"",""Data modelling"",""Business/Data Analysis"",""AI infrastructure""}",ID_3CPP
+,02-May,{Technology},fulltime,Oct-50,"{""Data engineering"",""Data modelling""}",ID_QM44
+,02-May,"{Government,Health,""Financial Services""}",fulltime,50-200,"{""Business/Data Analysis""}",ID_J62B
+,<1,{Research},internship,Oct-50,"{""Data modelling""}",ID_1BD0
+TRUE,02-May,{Zindi},contract,Oct-50,"{""Data engineering"",""Data modelling"",""AI infrastructure"",""Business/Data Analysis""}",ID_BXB1
+,<1,{Ambassador},parttime,>200,"{""Data modelling"",""Business/Data Analysis"",""AI infrastructure""}",ID_JYTV
+,02-May,"{""Financial Services""}",fulltime,50-200,"{""Business/Data Analysis"",""Data modelling""}",ID_X4AC
+,02-May,"{""Artificial Intelligence""}",fulltime,50-200,"{""Data modelling"",""Data engineering""}",ID_KP8G
+TRUE,<1,{Logistics},internship,Oct-50,"{""Data modelling"",""Data engineering""}",ID_FTTN
+TRUE,02-May,"{""Financial Services""}",fulltime,Oct-50,"{""Business/Data Analysis""}",ID_JJTS
+TRUE,<1,{Transportation},internship,Oct-50,"{""ML Application Deployment""}",ID_P6Q8
+,01-Feb,{Scholarship},internship,Oct-50,"{""Business/Data Analysis"",""Data modelling"",""Data engineering""}",ID_T5KV
+,02-May,"{""Financial Services""}",fulltime,,"{""Data engineering"",""Data modelling"",""ML Application Deployment"",""Business/Data Analysis""}",ID_BJ32
+,>5,{Research},contract,Oct-50,"{""Business/Data Analysis""}",ID_R7BC
+,02-May,"{""Management Consulting""}",fulltime,,,ID_L3KN
+,>5,{Health},contract,50-200,"{""ML Application Deployment"",""Business/Data Analysis"",""Data modelling""}",ID_54A8
