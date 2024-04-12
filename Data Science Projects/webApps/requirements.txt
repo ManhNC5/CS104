@@ -12,7 +12,7 @@ docopt==0.6.2
 entrypoints==0.4
 gitdb==4.0.9
 GitPython==3.1.29
-idna==3.4
+idna==3.7
 importlib-metadata==5.0.0
 Jinja2==3.1.2
 jsonschema==4.17.0
